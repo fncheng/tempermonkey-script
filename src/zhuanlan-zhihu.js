@@ -13,8 +13,8 @@
   "use strict";
   function removeAppDownload() {
     var app = document.getElementsByClassName("OpenInAppButton")[0];
-    if (app) {
-      app.style.position = "absolute";
+    if(app){
+      app.style.display = "none";
     }
   }
   removeAppDownload();
