@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        知乎专栏去下载App
 // @namespace   Violentmonkey Scripts
-// @match       https://zhuanlan.zhihu.com/p/72777951
+// @match       http*://zhuanlan.zhihu.com/p/*
 // @grant       none
 // @version     1.0
 // @author      fncheng
