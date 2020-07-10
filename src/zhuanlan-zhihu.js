@@ -4,7 +4,8 @@
 // @match       https://zhuanlan.zhihu.com/p/72777951
 // @grant       none
 // @version     1.0
-// @author      -
+// @author      fncheng
+// @license      GPL-3.0-only
 // @description 2020/7/10 下午1:56:24
 // ==/UserScript==
 
